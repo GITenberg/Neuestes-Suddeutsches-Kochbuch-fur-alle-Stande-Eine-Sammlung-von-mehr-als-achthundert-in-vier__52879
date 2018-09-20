@@ -1,0 +1,24 @@
+_repo: Neuestes-Suddeutsches-Kochbuch-fur-alle-Stande-Eine-Sammlung-von-mehr-als-achthundert-in-vier__52879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schiller, Viktorine
+    gutenberg_agent_id: '47101'
+    url: http://www.gutenberg.org/2009/agents/47101
+description: ''
+gutenberg_issued: '2016-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52879'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, German'
+- !lcc 'TX'
+- GITenberg
+title: "Neuestes Süddeutsches Kochbuch für alle Stände\r\nEine Sammlung von mehr als\
+  \ achthundert in vierzigjähriger Erfahrung erprobter Rezepte der feinen und bürgerlichen\
+  \ Kochkunst"
+url: http://www.gutenberg.org/ebooks/52879
