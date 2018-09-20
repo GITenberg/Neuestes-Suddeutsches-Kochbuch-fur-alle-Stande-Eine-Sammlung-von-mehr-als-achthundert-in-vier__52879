@@ -1,11 +1,16 @@
 _repo: Neuestes-Suddeutsches-Kochbuch-fur-alle-Stande-Eine-Sammlung-von-mehr-als-achthundert-in-vier__52879
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52879-h/images/cover.jpg
 creator:
   author:
     agent_name: Schiller, Viktorine
     gutenberg_agent_id: '47101'
     url: http://www.gutenberg.org/2009/agents/47101
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52879#Neuestes-Suddeutsches-Kochbuch-fur-alle-Stande-Eine-Sammlung-von-mehr-als-achthundert-in-vier_
 gutenberg_issued: '2016-08-22'
 gutenberg_type: Text
 identifiers:
